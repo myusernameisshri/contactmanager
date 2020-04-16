@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/myusernameisshri/contactmanager/static/css/main.36497136.chunk.css",
+    "main.js": "/myusernameisshri/contactmanager/static/js/main.2a6c27d6.chunk.js",
+    "main.js.map": "/myusernameisshri/contactmanager/static/js/main.2a6c27d6.chunk.js.map",
+    "runtime-main.js": "/myusernameisshri/contactmanager/static/js/runtime-main.a1f31958.js",
+    "runtime-main.js.map": "/myusernameisshri/contactmanager/static/js/runtime-main.a1f31958.js.map",
+    "static/css/2.de424728.chunk.css": "/myusernameisshri/contactmanager/static/css/2.de424728.chunk.css",
+    "static/js/2.f0812080.chunk.js": "/myusernameisshri/contactmanager/static/js/2.f0812080.chunk.js",
+    "static/js/2.f0812080.chunk.js.map": "/myusernameisshri/contactmanager/static/js/2.f0812080.chunk.js.map",
+    "index.html": "/myusernameisshri/contactmanager/index.html",
+    "precache-manifest.8f4bb4470cb86aa174c2d95580ba548c.js": "/myusernameisshri/contactmanager/precache-manifest.8f4bb4470cb86aa174c2d95580ba548c.js",
+    "service-worker.js": "/myusernameisshri/contactmanager/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/myusernameisshri/contactmanager/static/css/2.de424728.chunk.css.map",
+    "static/css/main.36497136.chunk.css.map": "/myusernameisshri/contactmanager/static/css/main.36497136.chunk.css.map",
+    "static/js/2.f0812080.chunk.js.LICENSE.txt": "/myusernameisshri/contactmanager/static/js/2.f0812080.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1f31958.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.f0812080.chunk.js",
+    "static/css/main.36497136.chunk.css",
+    "static/js/main.2a6c27d6.chunk.js"
+  ]
+}
